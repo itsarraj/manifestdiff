@@ -7,6 +7,12 @@ tag, replicas scaled down, a dropped volume mount, a lost health probe
 reorder and comment edit with the same visual weight as the change that
 would actually break the rollout.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
